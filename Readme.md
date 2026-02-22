@@ -29,11 +29,11 @@ __Microsoft Copilot__:
 
 __Google Gemini__:
 
-*[Link Text](https://url.com)
+*[Roadmap: DevOps Engineer Junior](https://github.com/lcnjrj/ia-mentor-de-carreira/blob/main/roadmaps/roadmaps-Gemini/01.DevOps-Engineer-Junior/Roadmap-DevOps-Engineer-Junior.md)
 
-*[Link Text](https://url.com)
+*[Roadmap: Desenvolvedora Back-end](https://github.com/lcnjrj/ia-mentor-de-carreira/blob/main/roadmaps/roadmaps-Gemini/02.Desenvolvedora-Back-end/RoadmapDesenvolvedoraBack-end.md)
 
-*[Link Text](https://url.com)
+*[Roadmap: Technical Writer](https://github.com/lcnjrj/ia-mentor-de-carreira/blob/main/roadmaps/roadmaps-Gemini/03.Technical-Writer/RoadmapTechnicalWriter.md)
 
 
 __Exploração de Cenários__: Embora meu foco seja DevOps, executei o fluxo completo para as três sugestões de carreira fornecidas pelo Agent 1. Isso permitiu analisar a consistência da lógica da IA e a capacidade de personalização do Agent 2 para diferentes domínios tecnológicos.
