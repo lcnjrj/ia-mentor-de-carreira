@@ -17,7 +17,16 @@ __Agent 2 (Planejador de Roadmaps):__ Especializado em criar planos de 90 dias, 
 ##### __Comparação e Análise de IAs (Benchmark)__ #####
 Para garantir a melhor qualidade das respostas e evitar "alucinações", realizei um teste comparativo entre modelos:
 
-__Google Gemini & Microsoft Copilot__: Submeti os mesmos prompts a ambas as plataformas para comparar a precisão técnica das sugestões e a profundidade dos roadmaps gerados.
+__Microsoft Copilot & Google Gemini__: Submeti os mesmos prompts a ambas as plataformas para comparar a precisão técnica das sugestões e a profundidade dos roadmaps gerados.
+
+*[Roadmap: Engenheira DevOps / SRE](https://url.comhttps://github.com/lcnjrj/ia-mentor-de-carreira/blob/main/roadmaps/roadmaps-Copilot/01.DevOps-Engineer-Junior/RoadmapEngenheiraDevOps.md)
+
+*[Roadmap: Engenharia de Inteligência Artificial / MLOps]([https://url.com](https://github.com/lcnjrj/ia-mentor-de-carreira/blob/main/roadmaps/roadmaps-Copilot/02.Engenharia-de-Intelig%C3%AAncia%20Artificial-MLOps/RoadmapEngenhariadeIntelig%C3%AAnciaArtificial.md))
+*[Link Text](https://url.com)
+*[Link Text](https://url.com)
+*[Link Text](https://url.com)
+*[Link Text](https://url.com)
+
 
 __Exploração de Cenários__: Embora meu foco seja DevOps, executei o fluxo completo para as três sugestões de carreira fornecidas pelo Agent 1. Isso permitiu analisar a consistência da lógica da IA e a capacidade de personalização do Agent 2 para diferentes domínios tecnológicos.
 
