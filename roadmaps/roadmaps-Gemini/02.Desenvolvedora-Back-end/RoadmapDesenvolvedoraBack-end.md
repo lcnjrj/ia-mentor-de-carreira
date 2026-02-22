@@ -234,5 +234,3 @@ Esta trilha foca na linguagem que você já gosta, introduz os frameworks de mer
 Lembre-se: o mais importante é a constância, não a velocidade. A maturidade e a base sólida em sistemas que você já possui são seus maiores diferenciais competitivos para vagas remotas. 
 
 ---
-
-**Gostaria que eu ajudasse a estruturar a primeira classe do seu projeto de organizador inteligente (SKO)?**
