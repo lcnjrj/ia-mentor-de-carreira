@@ -1,9 +1,9 @@
 # Roadmap: Engenharia de Inteligência Artificial / MLOps #
 Este roadmap detalha o plano estratégico de 90 dias para a transição de carreira para a área de IA e MLOps, com foco em automação de pipelines, versionamento de modelos e infraestrutura escalável.
 
-📋 Informações Gerais
+## Informações Gerais
 
-Carreira Escolhida: Engenharia de Inteligência Artificial / MLOps 
+### Carreira Escolhida: Engenharia de Inteligência Artificial / MLOps 
 
 
 Horas Disponíveis: 20h por semana 
@@ -25,7 +25,7 @@ Monitorar performance de modelos em produção, detectar deriva e configurar ale
 
 Colaborar com times de dados e desenvolvimento para integrar modelos em aplicações e garantir confiabilidade.
 
-🧠 Mapa de Skills
+### Mapa de Skills
 Core Skills (Essenciais)
 Python para ML (manipulação de dados, scripts, pacotes: pandas, numpy).
 
@@ -51,8 +51,8 @@ MLflow.
 
 Cloud (AWS/GCP/Azure) — escolha uma para foco.
 
-📅 Roadmap de 90 Dias (20h/semana)
-Mês 1 - Fundamentos
+## Roadmap de 90 Dias (20h/semana)
+### Mês 1 - Fundamentos
 
 Semana 1-2: Consolidar Python: listas, dicionários, funções, módulos, virtualenv/venv. Praticar manipulação de dados com pandas e visualização básica (matplotlib/seaborn).
 +1
