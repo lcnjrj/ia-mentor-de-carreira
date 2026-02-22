@@ -1,7 +1,7 @@
 # Roadmap: Redatora Técnica / Technical Writer (Foco em Tecnologia) #
 Este documento detalha o planejamento estratégico para a transição de carreira para a área de documentação técnica, com foco em ambientes de desenvolvimento e cultura Docs-as-Code.
 
-📋 Informações Gerais
+## Informações Gerais
 
 Nome da carreira escolhida: Redatora Técnica / Technical Writer (foco em tecnologia) 
 
@@ -34,7 +34,7 @@ Manter repositórios de documentação em GitHub.
 
 Revisar e atualizar conteúdos conforme novas versões de software.
 
-🧠 Mapa de Skills
+### Mapa de Skills
 Core Skills (Essenciais)
 Escrita técnica clara e objetiva.
 
@@ -58,7 +58,7 @@ Markdown / Docs-as-Code.
 
 Ferramentas de IA (ChatGPT, Copilot, etc.).
 
-📅 Roadmap de 90 Dias
+### Roadmap de 90 Dias
 
 Adaptado para: 20h/semana (carga intensiva, com espaço para prática avançada).
 
@@ -115,7 +115,7 @@ Pergunta 4: "Como você garante que sua documentação é clara?" Resposta: Fale
 
 Pergunta 5: "Por que você quer ser Redatora Técnica?" Resposta: Mostre paixão por tecnologia, habilidade de comunicação e interesse em ajudar pessoas a entenderem ferramentas complexas.
 
-🎓 Trilha DIO Recomendada
+_Trilha DIO Recomendada_
 
 Trilha: Formação Documentação Técnica e GitHub (parte da Formação Linux + Git + GitHub).
 
@@ -127,5 +127,4 @@ Próximos Passos: Acesse dio.me, busque por "Formação Linux + Git + GitHub" e 
 
 Lembre-se: O mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
 
-
-Quer que eu detalhe exemplos práticos de projetos open source que você pode documentar para fortalecer seu portfólio?
+---
