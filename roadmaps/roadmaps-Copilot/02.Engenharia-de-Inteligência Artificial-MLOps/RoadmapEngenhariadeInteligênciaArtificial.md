@@ -1,4 +1,4 @@
-🚀 Roadmap: Engenharia de Inteligência Artificial / MLOps
+# Roadmap: Engenharia de Inteligência Artificial / MLOps #
 Este roadmap detalha o plano estratégico de 90 dias para a transição de carreira para a área de IA e MLOps, com foco em automação de pipelines, versionamento de modelos e infraestrutura escalável.
 
 📋 Informações Gerais
