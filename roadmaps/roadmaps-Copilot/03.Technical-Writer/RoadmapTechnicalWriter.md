@@ -1,4 +1,4 @@
-🚀 Roadmap: Redatora Técnica / Technical Writer (Foco em Tecnologia)
+# Roadmap: Redatora Técnica / Technical Writer (Foco em Tecnologia) #
 Este documento detalha o planejamento estratégico para a transição de carreira para a área de documentação técnica, com foco em ambientes de desenvolvimento e cultura Docs-as-Code.
 
 📋 Informações Gerais
