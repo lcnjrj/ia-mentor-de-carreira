@@ -1,0 +1,201 @@
+Olá! Recebi suas informações do entrevistador.
+
+Vejo que você escolheu Engenharia de Inteligência Artificial / MLOps e tem 20h/semana para estudar. Perfeito!
+
+Vou montar agora seu plano completo personalizado...
+
+🧩 VISÃO DO DIA A DIA
+
+Como é o trabalho de uma Engenheira de IA/MLOps:
+
+Preparar, limpar e versionar conjuntos de dados para treino e validação.
+
+Projetar, implementar e automatizar pipelines de treinamento e inferência.
+
+Empacotar modelos (containerização) e automatizar deploys em ambientes de teste e produção.
+
+Monitorar performance de modelos em produção, detectar deriva e configurar alertas.
+
+Colaborar com times de dados e desenvolvimento para integrar modelos em aplicações e garantir confiabilidade.
+
+🧠 MAPA DE SKILLS
+
+CORE SKILLS (essenciais):
+
+Python para ML (manipulação de dados, scripts, pacotes: pandas, numpy).
+
+Conceitos de ML e modelagem (treino, validação, overfitting, métricas).
+
+MLOps básico (pipelines, versionamento de modelos/dados, CI/CD para modelos).
+
+NICE-TO-HAVE (complementares):
+
+Docker e deploy de modelos (containers, imagens, registries).
+
+Monitoramento e rastreamento de experimentos (MLflow, Evidently, Prometheus/Grafana).
+
+FERRAMENTAS E TECNOLOGIAS:
+
+Git / GitHub
+
+Linux / Bash
+
+Python / scikit-learn / PyTorch ou TensorFlow
+
+Docker
+
+MLflow
+
+Cloud (AWS/GCP/Azure) — escolha uma para foco
+
+📅 ROADMAP DE 90 DIAS
+
+ADAPTADO PARA: 20 horas/semana
+
+MÊS 1 - FUNDAMENTOS
+
+SEMANA 1-2:
+
+Consolidar Python: listas, dicionários, funções, módulos, virtualenv/venv.
+
+Praticar manipulação de dados com pandas e visualização básica (matplotlib/seaborn).
+
+SEMANA 3-4:
+
+Estudar fundamentos de ML com scikit-learn: regressão, classificação, validação cruzada, métricas.
+
+Git/GitHub: fluxo de branches, commits, PRs, README e boas práticas de versionamento.
+
+MÊS 2 - PRÁTICA
+
+SEMANA 5-6:
+
+Implementar pipelines de treino simples: carregar dados, pré-processar, treinar, salvar modelo.
+
+Introdução a PyTorch ou TensorFlow: treinar um modelo simples e salvar checkpoints.
+
+SEMANA 7-8:
+
+Docker: criar Dockerfile para ambiente de inferência; rodar modelo em container local.
+
+CI/CD básico com GitHub Actions: automatizar testes e build da imagem Docker ao push.
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+
+SEMANA 9-10:
+
+MLflow: rastrear experimentos, registrar modelos e comparar runs.
+
+Deploy de modelo em ambiente de teste (container em VM ou serviço cloud gratuito); criar endpoint simples.
+
+SEMANA 11-12:
+
+Projeto final: integrar código, Docker, CI/CD e MLflow; escrever documentação e instruções de reprodução.
+
+Preparação para entrevistas: revisar conceitos, montar respostas STAR, publicar portfólio no GitHub.
+
+🚀 PROJETO DE PORTFÓLIO
+
+PROJETO: Sistema de inferência MLOps para classificação de texto (end-to-end)
+
+O QUE FAZER:
+Construir uma pipeline completa que coleta/usa um dataset de texto, treina um modelo de classificação, registra experimentos com MLflow, empacota o modelo em Docker, automatiza build com GitHub Actions e expõe um endpoint de inferência simples (ex.: Flask/FastAPI) hospedado em uma VM ou serviço gratuito.
+
+ENTREGÁVEIS:
+
+Repositório GitHub com código do projeto e histórico de commits.
+
+GitHub Actions configurado para testes, build e push de imagem Docker.
+
+Dockerfile e instruções para rodar localmente.
+
+Experimentos e modelos registrados no MLflow.
+
+README com arquitetura, instruções de deploy e exemplos de uso do endpoint.
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+Código roda localmente seguindo o README e gera resultados reproduzíveis.
+
+Pipeline automatizado: ao fazer push, GitHub Actions executa testes e build da imagem.
+
+Modelo registrado no MLflow com métricas e artefatos acessíveis.
+
+Endpoint responde a requisições de inferência com latência aceitável para testes.
+
+DICA: Comece com um dataset pequeno (ex.: classificação de notícias ou sentimentos). Priorize automação mínima viável e documentação clara; depois adicione monitoramento e melhorias.
+
+💬 ROTEIRO DE ENTREVISTAS
+
+PERGUNTA 1: Fale sobre um projeto técnico que você fez.
+COMO RESPONDER:
+
+Situação: descreva o contexto e objetivo do projeto.
+
+Tarefa: explique sua responsabilidade (ex.: construir pipeline, automatizar deploy).
+
+Ação: detalhe passos técnicos (ferramentas, decisões, comandos relevantes).
+
+Resultado: mostre métricas ou impacto (ex.: modelo com X% de acurácia; pipeline que reduz tempo de deploy).
+
+PERGUNTA 2: Como você versiona dados e modelos?
+COMO RESPONDER:
+
+Explique conceitos: versionamento de datasets, hashes, armazenamento de artefatos.
+
+Cite ferramentas: MLflow, DVC ou registros de artefatos em cloud.
+
+Dê exemplo prático de fluxo (commit código → treinar → registrar modelo → tag de release).
+
+PERGUNTA 3: Como você monitora um modelo em produção?
+COMO RESPONDER:
+
+Liste métricas: drift de dados, performance (latência, throughput), métricas de qualidade (accuracy, F1).
+
+Ferramentas: Prometheus/Grafana para infra; Evidently/MLflow para drift e métricas de modelo.
+
+Explique playbook: alertas, rollback, re-treino e postmortem.
+
+PERGUNTA 4: Explique um pipeline CI/CD para modelos.
+COMO RESPONDER:
+
+Descreva etapas: testes unitários, treino/validação automatizados, registro de modelo, build de imagem, deploy em staging, smoke tests.
+
+Cite ferramentas: GitHub Actions, Docker, MLflow, Terraform (se usar IaC).
+
+Dê um exemplo de gatilho (PR merge → pipeline de release).
+
+PERGUNTA 5: Por que você quer trabalhar com MLOps e em remoto?
+COMO RESPONDER:
+
+Conecte motivação técnica (automação, escalabilidade, impacto de modelos) com experiência prévia (Linux, scripts).
+
+Explique preferência por remoto: foco, autonomia, experiência com ferramentas colaborativas (GitHub, Slack).
+
+Mostre comprometimento com aprendizado contínuo e exemplos de projetos pessoais.
+
+🎓 TRILHA DIO RECOMENDADA
+
+TRILHA: Trilha MLOps / Engenharia de Machine Learning (procure por "MLOps" na DIO)
+
+POR QUE ESSA TRILHA:
+
+Oferece módulos práticos que cobrem pipeline de ML, deploy, monitoramento e ferramentas alinhadas ao roadmap.
+
+Fornece projetos guiados e badges que fortalecem o portfólio para vagas júnior.
+
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+
+Busque por "MLOps" ou "Engenharia de Machine Learning"
+
+Inscreva-se gratuitamente
+
+Siga o cronograma junto com este roadmap
+
+✨ Seu plano está pronto!
+
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
+
+Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?

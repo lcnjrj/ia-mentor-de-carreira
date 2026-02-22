@@ -1,0 +1,225 @@
+Informações que estou transferindo para o Agent 2:
+
+Nome da carreira escolhida: Engenheira DevOps / SRE
+
+Horas disponíveis por semana: 20h
+
+Nível de experiência: Iniciante (nunca trabalhou em tech; fez cursos em 2001; usa Linux em tempo integral; escreve shell scripts)
+
+Objetivo: Conseguir o primeiro emprego (preferência por vagas remotas)
+
+Preferência: Código
+
+Interesses técnicos mencionados: inteligência artificial; aplicativos; navegação; GitHub; shell script; Linux
+
+Experiência prévia relevante: backup de HD; compra de materiais de informática; artesanato; pesquisas por telefone; clipping para pesquisas
+Olá! Recebi suas informações do entrevistador.
+
+Vejo que você escolheu Engenheira DevOps / SRE e tem 20h/semana para estudar. Perfeito!
+
+Vou montar agora seu plano completo personalizado...
+
+🧩 VISÃO DO DIA A DIA
+
+Como é o trabalho de uma(a) Engenheira DevOps / SRE:
+
+Monitorar saúde de serviços e responder a incidentes (investigar alertas, mitigar e documentar).
+
+Automatizar deploys e pipelines CI/CD para reduzir trabalho manual.
+
+Gerenciar infraestrutura como código e provisionamento (revisar e aplicar mudanças).
+
+Implementar observabilidade: métricas, logs e tracing; criar dashboards e regras de alerta.
+
+Colaborar com times de desenvolvimento para melhorar confiabilidade, performance e processos.
+
+🧠 MAPA DE SKILLS
+
+CORE SKILLS (essenciais):
+
+Linux avançado e administração de sistemas
+
+Shell scripting (Bash) e automação
+
+Controle de versão com Git e fluxo GitHub
+
+Conceitos de CI/CD e pipelines (GitHub Actions, GitLab CI)
+
+Fundamentos de redes, HTTP e segurança básica
+
+NICE-TO-HAVE (complementares):
+
+Containers e orquestração (Docker; Kubernetes básico)
+
+Infraestrutura como código (Terraform; CloudFormation)
+
+Observabilidade: Prometheus, Grafana, ELK/EFK
+
+Linguagem de programação para automação (Python)
+
+FERRAMENTAS E TECNOLOGIAS:
+
+GitHub; GitHub Actions
+
+Linux; Bash
+
+Docker; Kubernetes
+
+Terraform
+
+Prometheus; Grafana
+
+AWS ou GCP (escolha uma para focar)
+
+
+📅 ROADMAP DE 90 DIAS
+
+ADAPTADO PARA: 20 horas/semana
+
+MÊS 1 - FUNDAMENTOS
+
+SEMANA 1-2:
+
+Revisar e consolidar Linux: permissões, processos, systemd, gerenciamento de pacotes, logs.
+
+Fortalecer Bash: scripts para automação de tarefas (backups, deploys simples, parsing de logs).
+
+SEMANA 3-4:
+
+Git e GitHub: branches, PRs, resolução de conflitos, GitHub Actions básico.
+
+Conceitos de CI/CD: criar pipeline simples que roda testes e faz build.
+
+MÊS 2 - PRÁTICA
+
+SEMANA 5-6:
+
+Containers com Docker: criar imagens, Dockerfile otimizado, volumes e redes.
+
+Deploy local de uma aplicação containerizada; integrar com GitHub Actions para build e push.
+
+SEMANA 7-8:
+
+Introdução a cloud (AWS ou GCP): criar VM, configurar SSH, deploy de app simples.
+
+Infraestrutura como código: primeiros passos com Terraform (provisionar recurso simples).
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+
+SEMANA 9-10:
+
+Observabilidade: instrumentar app com métricas básicas; criar dashboard Grafana e alertas Prometheus.
+
+Segurança e boas práticas: secrets management, políticas de acesso, revisão de logs.
+
+SEMANA 11-12:
+
+Projeto final: integrar CI/CD, IaC e monitoramento; preparar README e documentação do projeto.
+
+Preparação para entrevistas: revisar perguntas técnicas, simular respostas e preparar portfólio público.
+
+🚀 PROJETO DE PORTFÓLIO
+
+PROJETO: Pipeline confiável para app containerizado com IaC e observabilidade
+
+O QUE FAZER:
+Criar uma aplicação simples (por exemplo, uma API em Flask/Node) e montar todo o fluxo: repositório no GitHub, pipeline CI/CD (build, testes, deploy), infraestrutura provisionada via Terraform em uma cloud gratuita/low-cost, containerização com Docker, e observabilidade (métricas + dashboard + alertas).
+
+ENTREGÁVEIS:
+
+Repositório GitHub com código da aplicação e pipeline (GitHub Actions).
+
+Terraform scripts para provisionar infraestrutura mínima.
+
+Dockerfile e imagens publicadas (ou instruções para build).
+
+Dashboard Grafana e regras de alerta documentadas.
+
+README com instruções de execução, arquitetura e decisões técnicas.
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+Pipeline executa automaticamente ao abrir PR e ao merge.
+
+Aplicação é implantável com um único comando (ou script) usando Terraform + deploy.
+
+Métricas básicas (latência, erros, uso de CPU) aparecem no Grafana e geram alertas simulados.
+
+Documentação clara que permite replicar o ambiente.
+
+DICA: Comece pequeno — primeiro faça a pipeline localmente e o deploy manual; depois automatize com IaC. Versione tudo e escreva commits claros.
+
+💬 ROTEIRO DE ENTREVISTAS
+
+PERGUNTA 1: Fale sobre um problema técnico que você resolveu.
+COMO RESPONDER:
+
+Situação: descreva o contexto (ex: pipeline quebrando).
+
+Tarefa: qual era seu objetivo.
+
+Ação: passos técnicos que você tomou (debug logs, rollback, correção no script).
+
+Resultado: impacto mensurável (tempo de deploy reduzido, incidentes evitados).
+
+PERGUNTA 2: Como você monitora a saúde de um serviço?
+COMO RESPONDER:
+
+Cite métricas (latência, erro rate, throughput), logs e tracing.
+
+Explique ferramentas que usaria (Prometheus, Grafana, ELK).
+
+Dê um exemplo prático de alerta e playbook de resposta.
+
+PERGUNTA 3: O que é infraestrutura como código e por que usar?
+COMO RESPONDER:
+
+Definição breve (declarativo, versionável).
+
+Benefícios: reprodutibilidade, revisão de mudanças, automação.
+
+Exemplo: Terraform para provisionar VMs e redes.
+
+PERGUNTA 4: Como você lida com um incidente em produção?
+COMO RESPONDER:
+
+Priorize segurança e mitigação imediata (runbook).
+
+Comunicação clara com stakeholders; criar postmortem após resolução.
+
+Cite ferramentas e passos (rotas de rollback, feature flags, análise de causa raiz).
+
+PERGUNTA 5: Por que você quer trabalhar como DevOps/SRE e por que remoto?
+COMO RESPONDER:
+
+Conecte experiência prévia (Linux, scripts) com motivação por automação e confiabilidade.
+
+Explique preferência por remoto: foco, flexibilidade, experiência com ferramentas colaborativas (GitHub, Slack).
+
+Mostre vontade de aprender e contribuir com exemplos de projetos pessoais.
+
+🎓 TRILHA DIO RECOMENDADA
+
+TRILHA: Trilha DevOps Engineer / SRE (Procure por "DevOps" ou "Engenharia de Confiabilidade" na DIO)
+
+POR QUE ESSA TRILHA:
+
+Cobre fundamentos práticos de Linux, Git, CI/CD, containers e IaC que alinham diretamente com o roadmap.
+
+Permite obter projetos guiados e badges que fortalecem o portfólio para vagas júnior.
+
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+
+Busque por "DevOps" ou "Engenharia de Confiabilidade"
+
+Inscreva-se gratuitamente
+
+Siga o cronograma junto com este roadmap
+
+✨ Seu plano está pronto!
+
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
+
+Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?

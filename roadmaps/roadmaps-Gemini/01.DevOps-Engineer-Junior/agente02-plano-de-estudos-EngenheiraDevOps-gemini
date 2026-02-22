@@ -1,0 +1,150 @@
+Olá! Recebi suas informações do entrevistador.
+
+Vejo que você escolheu DevOps Engineer (Junior) e tem 20 horas por semana para estudar. Perfeito! Aproveitaremos sua sólida bagagem de 20 anos em sistemas Linux para acelerar sua entrada no mercado formal.
+
+Vou montar agora seu plano completo personalizado...
+
+🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um(a) DevOps Engineer:
+
+Automação de Pipelines: Criar fluxos automatizados (CI/CD) para que o código saia do desenvolvedor e chegue ao cliente sem erros manuais.
+
+Infraestrutura como Código (IaC): Escrever arquivos de configuração para "subir" servidores e bancos de dados de forma automática e replicável.
+
+Gerenciamento de Containers: Empacotar aplicações e suas dependências para que rodem da mesma forma em qualquer lugar.
+
+Monitoramento e Observabilidade: Implementar ferramentas para saber se o sistema está saudável antes mesmo do cliente reclamar.
+
+Cultura e Documentação: Servir como ponte entre times de dev e ops, garantindo que toda a arquitetura esteja bem documentada e organizada.
+
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+
+Sistemas Operacionais: Administração de Linux avançada e Shell Script (seu ponto forte).
+
+Controle de Versão: Git e estratégias de branching para colaboração em larga escala.
+
+CI/CD: Conceitos de integração e entrega contínua.
+
+NICE-TO-HAVE (complementares):
+
+IA para DevOps: Uso de LLMs para geração de manifestos Kubernetes e depuração de logs.
+
+Arquitetura de Dados: Organização de fluxos de informação e taxonomia de infraestrutura.
+
+FERRAMENTAS E TECNOLOGIAS:
+
+Docker: Criação e orquestração de containers.
+
+GitHub Actions: Automação de workflow diretamente no repositório.
+
+Terraform ou Ansible: Ferramentas de provisionamento e configuração automática.
+
+📅 ROADMAP DE 90 DIAS
+ADAPTADO PARA: 20 horas/semana (Foco em ferramentas modernas de mercado)
+
+MÊS 1 - DO SHELL SCRIPT À INFRA ÁGIL
+SEMANA 1-2:
+
+Git Flow e Colaboração: Sair do uso individual e focar em Pull Requests, Code Review e Conventional Commits.
+
+Networking Avançado: Revisão de protocolos, DNS, portas e Firewalls voltados para ambientes de nuvem.
+
+SEMANA 3-4:
+
+Docker Fundamentals: Converter seus scripts Bash em Dockerfiles. Criação de imagens multi-stage.
+
+Docker Compose: Orquestrar múltiplos serviços (Ex: Python + Banco de Dados + Servidor Web).
+
+MÊS 2 - AUTOMAÇÃO E CI/CD
+SEMANA 5-6:
+
+GitHub Actions: Criar pipelines que rodam testes automáticos em scripts Python e Bash sempre que um código é enviado.
+
+Self-Hosted Runners: Como rodar ações do GitHub dentro da sua própria máquina Linux (Lubuntu).
+
+SEMANA 7-8:
+
+Ansible para Automação de Desktop/Server: Criar Playbooks para configurar uma máquina Linux do zero (perfeito para quem gosta de customizar o sistema).
+
+Introdução à Cloud: Escolha um provedor (AWS, Azure ou Google Cloud) e explore o CLI (Command Line Interface).
+
+MÊS 3 - IaC E PORTFÓLIO DE PESO
+SEMANA 9-10:
+
+Terraform: Iniciar no provisionamento de recursos básicos em nuvem usando código.
+
+Observabilidade: Instalação básica de monitoramento (Prometheus/Grafana) para seus scripts e containers.
+
+SEMANA 11-12:
+
+Polimento de Portfólio: Documentação técnica rigorosa e READMEs que vendem suas habilidades.
+
+Estratégia de Currículo: Como destacar 20 anos de experiência informal para vagas de Junior/Pleno.
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: The Automated Lab Orchestrator
+
+O QUE FAZER:
+Criar um repositório que automatize completamente a configuração de um ambiente de desenvolvimento Linux para estudantes de ADS. O projeto deve usar Docker para subir um banco de dados, Python para uma API de tarefas e Shell Script para orquestrar o setup inicial e backups.
+
+ENTREGÁVEIS:
+
+Repositório no GitHub com estrutura de pastas profissional.
+
+Pipeline de CI/CD que testa a integridade dos scripts Bash.
+
+Documentação (Wiki ou Markdown) detalhando a arquitetura e como replicar o lab.
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+Provisionamento do ambiente com um único comando (./setup.sh ou docker-compose up).
+
+Uso de variáveis de ambiente para segurança.
+
+Histórico de commits organizado e semântico.
+
+DICA: Utilize sua facilidade em organizar informações para criar o melhor README que um recrutador já viu. No DevOps, a documentação é tão importante quanto o código.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: Com sua longa experiência em Linux, como você abordaria a migração de um script legiado para um container Docker?
+COMO RESPONDER:
+Explique que o primeiro passo é isolar as dependências. Em vez de rodar no sistema host, você criaria um Dockerfile com uma imagem base leve (como Alpine ou Debian-slim), copiaria o script e definiria o entrypoint, garantindo que o comportamento seja idêntico em qualquer máquina.
+
+PERGUNTA 2: O que é Infraestrutura como Código (IaC) e qual o principal benefício em relação a scripts manuais?
+COMO RESPONDER:
+IaC permite que a infraestrutura seja versionada como software. O benefício é a idempotência: você pode rodar o código 100 vezes e o resultado final será sempre o mesmo, eliminando o erro humano e o "na minha máquina funciona".
+
+PERGUNTA 3: Como você integra ferramentas de IA no seu dia a dia de automação?
+COMO RESPONDER:
+Fale sobre como usa IA para prototipar rapidamente manifestos YAML complexos ou para explicar erros de log obscuros, sempre revisando o código gerado para garantir que segue as melhores práticas de segurança.
+
+PERGUNTA 4: Como garantir que segredos (senhas, chaves de API) não vazem no GitHub?
+COMO RESPONDER:
+Mencione o uso de GitHub Secrets, arquivos .env ignorados pelo .gitignore e ferramentas de scan como o trufflehog para detectar possíveis vazamentos.
+
+PERGUNTA 5: Por que o monitoramento é vital em um ambiente DevOps?
+COMO RESPONDER:
+Sem monitoramento, você está "voando às cegas". DevOps é sobre feedback constante. Você precisa de métricas para saber quando escalar o sistema ou quando uma atualização recente causou degradação de performance.
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Configuração de Infraestrutura como Código com Terraform e Ansible
+
+POR QUE ESSA TRILHA:
+Ela preenche a lacuna entre o seu conhecimento atual de Linux/Shell e o que as empresas de tecnologia modernas exigem (Provisionamento e Configuração centralizada), facilitando sua transição para o regime remoto.
+
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+
+Busque por "Terraform e Ansible"
+
+Inscreva-se gratuitamente
+
+Siga o cronograma junto com este roadmap
+
+✨ Seu plano está pronto!
+
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo. Sua experiência prévia é um diferencial gigante; use-a a seu favor!
+
+Tem alguma dúvida sobre o plano? Gostaria que eu detalhasse como estruturar o seu README para impressionar recrutadores de vagas remotas?
