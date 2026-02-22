@@ -21,10 +21,14 @@ __Microsoft Copilot & Google Gemini__: Submeti os mesmos prompts a ambas as plat
 
 *[Roadmap: Engenheira DevOps / SRE](https://url.comhttps://github.com/lcnjrj/ia-mentor-de-carreira/blob/main/roadmaps/roadmaps-Copilot/01.DevOps-Engineer-Junior/RoadmapEngenheiraDevOps.md)
 
-*[Roadmap: Engenharia de Inteligência Artificial / MLOps]([https://url.com](https://github.com/lcnjrj/ia-mentor-de-carreira/blob/main/roadmaps/roadmaps-Copilot/02.Engenharia-de-Intelig%C3%AAncia%20Artificial-MLOps/RoadmapEngenhariadeIntelig%C3%AAnciaArtificial.md))
+*[Roadmap: Engenharia de Inteligência Artificial / MLOps](https://github.com/lcnjrj/ia-mentor-de-carreira/blob/main/roadmaps/roadmaps-Copilot/02.Engenharia-de-Intelig%C3%AAncia%20Artificial-MLOps/RoadmapEngenhariadeIntelig%C3%AAnciaArtificial.md)
+
+*[Roadmap: Redatora Técnica / Technical Writer (Foco em Tecnologia)]([https://url.com](https://github.com/lcnjrj/ia-mentor-de-carreira/blob/main/roadmaps/roadmaps-Copilot/03.Technical-Writer/RoadmapTechnicalWriter.md))
+
 *[Link Text](https://url.com)
+
 *[Link Text](https://url.com)
-*[Link Text](https://url.com)
+
 *[Link Text](https://url.com)
 
 
